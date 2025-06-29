@@ -21,8 +21,8 @@ A Python script for searching specific terms across multiple subtitle files (SRT
 
 1. Clone this repository or download the script:
 ```bash
-git clone https://github.com/yourusername/subtitle-search-tool.git
-cd subtitle-search-tool
+git clone https://github.com/fpsamuraig/subsearch.git
+cd subsearch
 ```
 
 2. Make the script executable (optional):
