@@ -1,4 +1,4 @@
-# Subtitle Search Tool
+# Subsearch
 
 A Python script for searching specific terms across multiple subtitle files (SRT and VTT formats) and returning timestamped results. Particularly useful for finding specific moments in video content when you have subtitle files.
 
